@@ -17,7 +17,7 @@ Site do tipo ladding page para divulgar uma galeria de imagens com varias paisag
 - Markdown 
 - git 
 
---
+---
 ## Autor
 
 -[Lara Machado](https://www.linkedin.com/in/lara-machado-aa657a2b1/)
